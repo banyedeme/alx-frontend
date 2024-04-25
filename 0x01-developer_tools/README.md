@@ -165,7 +165,5 @@ Read or watch:
 
     Go to https://dev-tools.hbtn.info/ when does the SSL certificate expire
 
-Author
 
-    Joseph Mahiuha - Mahiuha
 
